@@ -23,17 +23,6 @@ I build AI agents and tools that solve problems I run into — then occasionally
 
 ---
 
-### Tech I work with
-
-```
-Languages:      Python, TypeScript, Java
-AI / LLM:       Claude API, OpenAI, LangChain, RAG, MCP
-Frameworks:     Next.js, FastAPI, React, Spring Boot
-Infrastructure: Docker, Kubernetes, PostgreSQL, Redis, Vercel
-```
-
----
-
 ### Let's connect
 
 [![X](https://img.shields.io/badge/@spacechimpham1-000000?style=flat&logo=x&logoColor=white)](https://x.com/spacechimpham1)

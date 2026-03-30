@@ -2,7 +2,7 @@
 
 I build AI agents and tools that solve problems I run into — then occasionally they solve problems for other people too.
 
-- :office: Staff Engineer at **Broadcom** (VMware Cloud Foundation) — scaling private cloud infrastructure across 2,000+ hosts
+- :office: Staff Engineer at **Broadcom** (VMware Cloud Foundation) 
 - :robot: Building **autonomous AI agents**, **MCP servers**, and full-stack products on my own time
 - :compass: Deep in **Claude API**, **LangChain**, **Next.js**, **FastAPI**, and the MCP ecosystem
 - :earth_americas: Based in **San Francisco**

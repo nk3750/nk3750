@@ -25,6 +25,6 @@ I build AI agents and tools that solve problems I run into — then occasionally
 
 ### Let's connect
 
-[![X](https://img.shields.io/badge/@spacechimpham1-000000?style=flat&logo=x&logoColor=white)](https://x.com/neelabhBuilds)
+[![X](https://img.shields.io/badge/@neelabhBuilds-000000?style=flat&logo=x&logoColor=white)](https://x.com/neelabhBuilds)
 [![LinkedIn](https://img.shields.io/badge/neelabh--kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelabh-kumar/)
 [![Website](https://img.shields.io/badge/neelabhbuilds.com-E8C872?style=flat&logo=safari&logoColor=black)](https://neelabhbuilds.com)

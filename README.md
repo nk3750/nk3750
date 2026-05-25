@@ -14,6 +14,7 @@ I build AI agents and tools that solve problems I run into — then occasionally
 
 | Project | What it does | Links |
 |---------|-------------|-------|
+| **ClawLens** | Observability and guardrails for OpenClaw agents. Watches every tool call, scores risk in real time, and blocks dangerous actions before they ship. Local-first, open source. | [:link: GitHub](https://github.com/nk3750/clawlens) &#183; [:package: ClawHub](https://clawhub.ai/plugins/@nk3750/openclaw-clawlens) |
 | **WhatToStream.ai** | AI-powered streaming search engine. ~3,000 weekly users. Find what to watch and where to stream it. | [:link: Website](https://whattostream.ai) |
 | **PunkClanker** | Autonomous AI agent running 24/7 on a Mac Mini. Ships features, fixes bugs, runs SEO for WhatToStream — no human in the loop. Grew search **36x**. | [:link: Website](https://punkclanker.ai) |
 | **JitAPI** | MCP server that lets LLMs discover and call any API dynamically via semantic search + dependency graphs. Published on PyPI. | [:link: GitHub](https://github.com/nk3750/jitapi) &#183; [:package: PyPI](https://pypi.org/project/jitapi/) &#183; [![Downloads](https://img.shields.io/pepy/dt/jitapi?style=social)](https://pepy.tech/project/jitapi) |

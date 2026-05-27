@@ -6,7 +6,7 @@ I build AI agents and tools that solve problems I run into — then occasionally
 - :robot: Building **autonomous AI agents**, **MCP servers**, and full-stack products on my own time
 - :compass: Deep in **Claude API**, **LangChain**, **Next.js**, **FastAPI**, and the MCP ecosystem
 - :earth_americas: Based in **San Francisco**
-- :globe_with_meridians: **[neelabhbuilds.com](https://neelabhbuilds.com)**
+- :globe_with_meridians: **[neelabhbuilds.com](https://www.neelabhbuilds.com)**
 
 ---
 
@@ -28,4 +28,4 @@ I build AI agents and tools that solve problems I run into — then occasionally
 
 [![X](https://img.shields.io/badge/@neelabhBuilds-000000?style=flat&logo=x&logoColor=white)](https://x.com/neelabhBuilds)
 [![LinkedIn](https://img.shields.io/badge/neelabh--kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelabh-kumar/)
-[![Website](https://img.shields.io/badge/neelabhbuilds.com-E8C872?style=flat&logo=safari&logoColor=black)](https://neelabhbuilds.com)
+[![Website](https://img.shields.io/badge/neelabhbuilds.com-E8C872?style=flat&logo=safari&logoColor=black)](https://www.neelabhbuilds.com)

@@ -1,17 +1,31 @@
-# Hey, I'm Neelabh Kumar 👋
+## Hey, I'm Neelabh Kumar 👋
 
-I build AI agents and developer tools — mostly to scratch my own itches.
+I build AI agents and tools that solve problems I run into — then occasionally they solve problems for other people too.
 
-## What I'm working on
+- :office: Staff Engineer at **Broadcom** (VMware Cloud Foundation) 
+- :robot: Building **autonomous AI agents**, **MCP servers**, and full-stack products on my own time
+- :compass: Deep in **Claude API**, **LangChain**, **Next.js**, **FastAPI**, and the MCP ecosystem
+- :earth_americas: Based in **San Francisco**
+- :globe_with_meridians: **[neelabhbuilds.com](https://www.neelabhbuilds.com)**
 
-- **[ClawLens](https://github.com/nk3750/clawlens)** — observability and guardrails for OpenClaw agents (risk scoring, audit trails, dashboard)
-- **[JitAPI](https://github.com/nk3750/jitapi)** — just-in-time API orchestration for LLMs (MCP server, semantic endpoint discovery)
-- **[WhatToStream.ai](https://whattostream.ai)** — find where any movie or show is streaming
+---
 
-## About
+### What I'm building
 
-- 🛠️ Day job: engineering at **Broadcom** (VMware Cloud Foundation)
-- 🌐 More at **[neelabhbuilds.com](https://neelabhbuilds.com)**
-- 📫 Reach me: neelabh.kumar@outlook.com
+| Project | What it does | Links |
+|---------|-------------|-------|
+| **ClawLens** | Observability and guardrails for OpenClaw agents. Watches every tool call, scores risk in real time, and blocks dangerous actions before they ship. Local-first, open source. | [:link: GitHub](https://github.com/nk3750/clawlens) &#183; [:package: ClawHub](https://clawhub.ai/plugins/@nk3750/openclaw-clawlens) |
+| **WhatToStream.ai** | AI-powered streaming search engine. ~3,000 weekly users. Find what to watch and where to stream it. | [:link: Website](https://whattostream.ai) |
+| **PunkClanker** | Autonomous AI agent running 24/7 on a Mac Mini. Ships features, fixes bugs, runs SEO for WhatToStream — no human in the loop. Grew search **36x**. | [:link: Website](https://punkclanker.ai) |
+| **JitAPI** | MCP server that lets LLMs discover and call any API dynamically via semantic search + dependency graphs. Published on PyPI. | [:link: GitHub](https://github.com/nk3750/jitapi) &#183; [:package: PyPI](https://pypi.org/project/jitapi/) &#183; [![Downloads](https://img.shields.io/pepy/dt/jitapi?style=social)](https://pepy.tech/project/jitapi) |
+| **Apple Health Bot** | Chat with your Apple Health data in plain English. RAG over SQL with LangChain. | [:link: GitHub](https://github.com/nk3750/apple-health-bot) |
+| **HA Agent** | AI agent for Home Assistant via Telegram — with ephemeral automations that HA can't do natively. | [:link: GitHub](https://github.com/nk3750/ha-agent-telegram) |
+| **Morsand** | Digitized a 149-page historical manuscript about my ancestral village using OCR + Claude. Heritage preservation through AI. | [:link: Website](https://morsand.com) |
 
-<!-- pinned: clawlens, jitapi, ha-agent-telegram, apple-health-bot -->
+---
+
+### Let's connect
+
+[![X](https://img.shields.io/badge/@neelabhBuilds-000000?style=flat&logo=x&logoColor=white)](https://x.com/neelabhBuilds)
+[![LinkedIn](https://img.shields.io/badge/neelabh--kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelabh-kumar/)
+[![Website](https://img.shields.io/badge/neelabhbuilds.com-E8C872?style=flat&logo=safari&logoColor=black)](https://www.neelabhbuilds.com)
